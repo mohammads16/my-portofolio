@@ -1,58 +1,37 @@
-# 🗺️ GIS Projects
+# Urban Public Facilities Accessibility Analysis
 
-This section showcases my projects and experience in **Geographic Information Systems (GIS), spatial analysis, mapping, and environmental applications**.
+## Project Overview
 
-## 🔧 Technologies & Tools
+This project demonstrates a GIS workflow for mapping and
+analysing urban public facilities using QGIS.
 
-* ArcGIS
-* GIS & Spatial Analysis
-* Python
-* GeoPandas
-* QGIS
-* Remote Sensing
-* Spatial Data Visualization
+## Objectives
 
-## 📍 Project Areas
+- Map hospitals, schools and parks
+- Manage spatial and attribute data
+- Apply categorized symbology
+- Visualize facility capacity
+- Create service-area buffers
+- Analyse accessibility
+- Produce a professional cartographic map
 
-### 🌍 Environmental GIS Analysis
+## Software
 
-GIS-based analysis of environmental and geographical datasets to understand spatial patterns and support data-driven decision making.
+- QGIS
+- GeoPackage
+- OpenStreetMap
 
-**Key Skills:**
+## GIS Methods
 
-* Spatial data processing
-* Thematic mapping
-* Environmental mapping
-* Spatial analysis
-* Data visualization
+1. Data preparation
+2. Coordinate reference system
+3. Spatial data management
+4. Categorized symbology
+5. Labeling
+6. Buffer analysis
+7. Spatial intersection
+8. Cartographic design
 
----
+## Output
 
-### 🗺️ Spatial Data Visualization
-
-Creating professional maps and visualizations to communicate geographical information clearly.
-
-**Key Skills:**
-
-* Map design
-* Layer management
-* Coordinate systems
-* Spatial visualization
-* Cartographic presentation
-
----
-
-### 🌱 Environmental & Land-Use Analysis
-
-Using GIS techniques to explore environmental conditions, land-use patterns, and geographical relationships.
-
-**Key Skills:**
-
-* Land-use analysis
-* Environmental assessment
-* Spatial data interpretation
-* Geographic data management
-
-## 🚀 More GIS Projects Coming Soon
-
-I am continuously developing GIS projects combining **Environmental Science, Python, Remote Sensing, and Artificial Intelligence** to solve real-world spatial and environmental problems.
+![Final Map](output/urban_facilities_map.png)
